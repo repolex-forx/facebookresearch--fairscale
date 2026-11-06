@@ -1,0 +1,11 @@
+{
+  "org": "facebookresearch",
+  "repo": "fairscale",
+  "versions": [
+    {
+      "commit": "146f160241651e1211c4247979f159a4ef43b54a",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:05:25.256835+00:00"
+    }
+  ]
+}
