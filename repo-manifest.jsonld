@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/facebookresearch/fairscale/commit/146f160241651e1211c4247979f159a4ef43b54a",
       "git:hexsha": "146f160241651e1211c4247979f159a4ef43b54a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/facebookresearch/fairscale/commit/0cd65242a0e43c60251abb3b631411e5ea5b6b86",
